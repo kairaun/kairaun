@@ -1,7 +1,6 @@
 ## K41 👋
 
 Game Development(Learninging)</br>
-AI Artist
 
 About me
 ---
